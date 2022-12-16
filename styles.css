@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+table{
+    border-collapse: collapse;
+    width: 50%;
+}
+td,th{
+    border: 2px solid black;
+    text-align: center;
+}
+video{
+    size: 200mm;
+}
